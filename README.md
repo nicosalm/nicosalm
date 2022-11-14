@@ -11,7 +11,6 @@
 <img align="left" alt="Rust" width="26px" src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" />
 
 <br />
-
 <br />
 
 <div>

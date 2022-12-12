@@ -16,6 +16,4 @@
   <img height="170" align="left" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
    <img src="https://github-readme-stats-nico-himself.vercel.app/api/top-langs/?username=nico-himself&count_private=true&layout=compact&count_private=true&hide_border=true&theme=github_dark" />
   
-<script src="https://app.embed.im/snow.js" defer></script>
-  
 </div>

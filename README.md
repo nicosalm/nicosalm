@@ -1,7 +1,7 @@
 ### Hello there! I'm Nico 👋
 
-## I'm a developer. 
-- I'm currently learning Java and Python
+## I'm a computer scientist. 
+- Currently broading my tooklkit with more machine learning techniques.
 - I'm looking to collaborate on projects :)
 
 ### Toolbox:

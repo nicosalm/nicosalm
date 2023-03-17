@@ -1,7 +1,6 @@
 ### Hello there! I'm Varrix 👋
 
 ## I'm a computer scientist. 
-• Currently broading my tooklkit with ML and AI techniques. Exploring quantum. <br>
 • I'm looking to collaborate on fun projects :] <br>
 • Inquiries to Discord → <code>Varrix#0001</code>
 

@@ -1,6 +1,7 @@
 ### Hello there! I'm Varrix 👋
 
 ## I'm a computer scientist. 
+• I'm learning Python and JS <br>
 • I'm looking to collaborate on fun projects :] <br>
 • Inquiries to Discord → <code>Varrix#0001</code>
 

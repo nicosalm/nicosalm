@@ -1,4 +1,4 @@
-### Hello there! I'm Varrix 👋
+### Hello there! I'm Nico / Varrix 👋
 
 ## I'm a computer scientist. 
 • I'm learning Python and JS <br>

@@ -1,6 +1,6 @@
 ### Hello there! I'm Nico 👋
 
-## I'm a programmer
+## I'm a programmer.
 <p>
 • Attending university in Madison, WI.<br/>
 • I'm not taking on new projects right now :]<br/>

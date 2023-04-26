@@ -10,7 +10,8 @@
 
 <table align = center>
   <tr>
-    <td><img height="170" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&hide=stars,issues" width="500"/></td>
-    <td><img src="https://github-readme-stats-nico-himself.vercel.app/api/top-langs/?username=nico-himself&count_private=true&layout=compact&count_private=true&hide_border=true&theme=tokyonight&hide=stars,issues" width="500"/></td>
+    <td><img height="170" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=stars,issues" width="500"/></td>
+    <!-- OLD ... <td><img src="https://github-readme-stats-nico-himself.vercel.app/api/top-langs/?username=nico-himself&count_private=true&layout=compact&count_private=true&hide_border=true&theme=tokyonight&hide=stars,issues" width="500"/></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Varrix&theme=tokyonight&langs_count=3" width="500"></td>
   </tr>
 </table>

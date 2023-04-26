@@ -1,14 +1,12 @@
-### Hello there! I'm Nico 👋
+<h1 align="center"> Hello there! I'm Nico 👋 </h1>
+<h3 align="center"> CS @ UW–Madison</h3>
 
-## I'm a programmer.
-<p>
-• Attending university in Madison, WI.<br/>
-• I'm not taking on new projects right now :]<br/>
-• Inquiries to Discord → <code>Varrix#0001</code></br>
-</p>
+<h3 align="center" style="margin-bottom: 12px;">
+  <a href="https://www.linkedin.com/in/nicosalm/">LinkedIn</a> · <a href="mailto:contact@nicosalm.dev">Email</a> · <a href="https://mmaeder.com">Website</a>
+</h3>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
    <img src="https://github-readme-stats-nico-himself.vercel.app/api/top-langs/?username=nico-himself&count_private=true&layout=compact&count_private=true&hide_border=true&theme=github_dark" />
   
-</div>
+</p>

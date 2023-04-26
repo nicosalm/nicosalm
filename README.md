@@ -2,7 +2,7 @@
 <h3 align="center"> CS @ UW–Madison</h3>
 
 <h3 align="center" style="margin-bottom: 12px;">
-  <a href="https://www.linkedin.com/in/nicosalm/">LinkedIn</a> · <a href="mailto:contact@nicosalm.dev">Email</a> · <a href="https://mmaeder.com">Website</a>
+  <a href="https://www.linkedin.com/in/nicosalm/">LinkedIn</a> · <a href="mailto:contact@nicosalm.dev">Email</a> · <a href="https://varrix.dev">Website</a>
 </h3>
 
 <p align="center">

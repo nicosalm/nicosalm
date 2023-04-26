@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=stars,issues" width="500" />
+  <img height="150" width="400" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=stars,issues" />
   <!-- OLD ... <img src="https://github-readme-stats-nico-himself.vercel.app/api/top-langs/?username=nico-himself&count_private=true&layout=compact&count_private=true&hide_border=true&theme=tokyonight&hide=stars,issues" width="500"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Varrix&theme=tokyonight&langs_count=3" width="500" />
+  <img height="150" width ="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Varrix&theme=tokyonight&langs_count=3" />
 </p>

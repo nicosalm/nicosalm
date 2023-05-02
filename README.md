@@ -10,5 +10,3 @@
 
 <p align="center">
   <img height="150" width="400" src="https://github-readme-stats-nico-himself.vercel.app/api?username=nico-himself&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=stars,issues" />
-  <img height="150" width ="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Varrix&theme=tokyonight&langs_count=3" />
-</p>

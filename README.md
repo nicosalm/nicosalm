@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&weight=600&size=45&duration=3000&color=7286D3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nico+%F0%9F%91%8B"/></a></h1>
 
-<!-- TODO: ADD ... ![](https://visitor-badge.laobi.icu/badge?page_id=nico-himself.nico-himself) -->
-
 <h3 align="center"> CS @ UW–Madison</h3>
 
 <h3 align="center" style="margin-bottom: 12px;">

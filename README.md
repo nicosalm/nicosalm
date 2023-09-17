@@ -5,7 +5,7 @@
 <h3 align="center"> CS @ UW–Madison</h3>
 
 <h3 align="center" style="margin-bottom: 12px;">
-  <a href="https://www.linkedin.com/in/nicosalm/">LinkedIn</a> · <a href="mailto:contact@nicosalm.dev">Email</a> · <a href="https://nicosalm.dev">Website</a> · <a href="https://leetcode.com/nico-himself">Leetcode</a>
+  <a href="https://www.linkedin.com/in/nicosalm/" target="_blank">LinkedIn</a> · <a href="mailto:contact@nicosalm.dev">Email</a> · <a href="https://nicosalm.dev" target="_blank">Website</a> · <a href="https://leetcode.com/nico-himself" target="_blank">Leetcode</a>
 </h3>
 
 <p align="center">

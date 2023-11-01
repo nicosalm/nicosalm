@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&weight=600&size=45&duration=3000&color=7286D3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nico+%F0%9F%91%8B"/></a></h1>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&weight=600&size=45&duration=3000&color=7286D3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nico+%F0%9F%91%8B"/></a></h3>
+
+---
 
 <!-- [![wakatime](https://wakatime.com/badge/user/66fd5568-da32-466f-8a36-c16978837bac.svg)](https://wakatime.com/@varrix) -->
 
